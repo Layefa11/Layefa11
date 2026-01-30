@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Layefa
 
-<!--
-**Layefa11/Layefa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flutter Developer who builds beautiful and responsive mobile applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Flutter & Dart  
+- Mobile App Development  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 What I do
+- Build cross-platform mobile apps with Flutter  
+- Work on personal and learning projects  
+
+## 🌱 Currently improving
+- Flutter advanced concepts  
+- UI/UX for mobile apps  
+
+## 📫 Connect with me
+- GitHub: https://github.com/Layefa11  
+
+⭐ Feel free to check out my repositories and projects!
+
